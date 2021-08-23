@@ -1,0 +1,23 @@
+{
+  "name": "basic-node-express",
+  "version": "1.0.0",
+  "description": "basic server with node",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KariVillagran/basic-node-express.git"
+  },
+  "author": "akvi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KariVillagran/basic-node-express/issues"
+  },
+  "homepage": "https://github.com/KariVillagran/basic-node-express#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
